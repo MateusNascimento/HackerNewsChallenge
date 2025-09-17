@@ -1,0 +1,8 @@
+{
+  "HackerNewsChallenge": {
+    "FirebaseBestStoriesIdsUrl": "https://hacker-news.firebaseio.com/v0/beststories.json",
+    "FirebaseBestStoriesByIdUrl": "https://hacker-news.firebaseio.com/v0/item/{id}.json",
+    "CacheExpirationEnabled": true,
+    "CacheDurationInMilliseconds": 120000 // 2 minutes
+  }
+}

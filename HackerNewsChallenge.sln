@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerNewsChallenge", "HackerNewsChallenge\HackerNewsChallenge.csproj", "{CE650410-B4F6-4DBC-AD26-D1CC68125AE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE650410-B4F6-4DBC-AD26-D1CC68125AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE650410-B4F6-4DBC-AD26-D1CC68125AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE650410-B4F6-4DBC-AD26-D1CC68125AE8}.Debug|x64.ActiveCfg = Debug|x64
+		{CE650410-B4F6-4DBC-AD26-D1CC68125AE8}.Debug|x64.Build.0 = Debug|x64
+		{CE650410-B4F6-4DBC-AD26-D1CC68125AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE650410-B4F6-4DBC-AD26-D1CC68125AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE650410-B4F6-4DBC-AD26-D1CC68125AE8}.Release|x64.ActiveCfg = Release|x64
+		{CE650410-B4F6-4DBC-AD26-D1CC68125AE8}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EA77DA7-693D-4670-8428-7328FC695525}
+	EndGlobalSection
+EndGlobal
